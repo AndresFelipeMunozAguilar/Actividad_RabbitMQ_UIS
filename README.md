@@ -1,5 +1,10 @@
 # Actividad_RabbitMQ_UIS
 En este repositorio se exponen los resultados de la realización de la actividad de comunicación asincrónica usando el Broker de mensajería RabbitMQ
+## Organización
+* Muñoz Aguilar - Osma Llanes - 2210087 - 2211466- Taller Rabbit MQ: El documento que evidencia la realización del taller
+* Parte 1: Se encuentra el código de la primera parte mencionada en el documento
+* Parte 2: Se encuentra el código de la segunda parte mencionada en el documento
+
 
 ## Creadores
 Andrés Felipe Muñoz Aguilar - 2210087 \
