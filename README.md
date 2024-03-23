@@ -12,4 +12,5 @@ Marisol Osma Llanes – 2211466
 
 #### Referencias
 * Lingotti, T. [@tomaslingotti]. (2021, January 2). RabbitMQ y Golang en Docker - comunicación asincrónica en microservicios. Youtube. https://www.youtube.com/watch?v=GSMH3UapR6s
+* Llamas, L. (2017, 21 octubre). Montar un API REST con NodeJs y Express. Luis Llamas. https://www.luisllamas.es/montar-un-api-rest-con-nodejs-y-express/
 
